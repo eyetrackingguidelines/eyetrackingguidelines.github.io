@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Not remove data. 
+title: Not Remove Data 
 permalink: /analysis/remove
 author: Removed for blind review
 nav_order:  1

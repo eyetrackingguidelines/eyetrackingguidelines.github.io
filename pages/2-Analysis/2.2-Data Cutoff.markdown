@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cut off data with high variation preceding and following blink based on inspection of the given dataset.
+title: Data Cutoff
 permalink: /analysis/pda
 author: Removed for blind review
 nav_order: 2
