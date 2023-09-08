@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Do not remove data that contains blinks as it will cause interaction delays. 
+title: Not remove data. 
 permalink: /analysis/remove
 author: Removed for blind review
 nav_order:  1
