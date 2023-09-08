@@ -1,20 +1,15 @@
 ---
 layout: page
-title: Pre-processing
-permalink: /analysis/pre
+title: Do not remove data that contains blinks as it will cause interaction delays. 
+permalink: /analysis/remove
 author: Removed for blind review
 nav_order:  1
 parent : Analysis
 
 ---
-### Preprocessing
+### Do not remove data that contains blinks as it will cause interaction delays.
 <br>
 <p align="justify">
-When pre-processing EDA data, one typically down-samples or filters the data with a low-pass filer (generally <10
-Hz) [11]. The next step is to remove artifacts of electrodes displacements. Motion artifacts can be identified by visual inspection of the data [8], but this is cumbersome for very large datasets. [11] recommends setting a signal-change
-threshold criterion and reject changes that violate this threshold. Kleckner et al. [18] developed an automated quality
-assessment for ambulatory data, that can be used to remove motion artifacts from acquired EDA data. This tool is
-publicly available<sup><a href="#fn1" id="ref1">1</a></sup> and detects out-of-range values, fast changes in EDA, moments in which the device was not being
-worn, and data surrounding invalid data.</p>
+We recommend against removing data that contains blinks. While this is the most predominant approach in the literature reviewed, it can depend on the window size, resulting in over 50\% of the data becoming unusable. It can also lead to temporarily suspending updates to the interactive system that takes more than double the time of set window size. While we acknowledge that interactive systems in human-computer interaction rely on blinks for various interactions, the susceptibility of blinks is subject to a variety of factors, like age, air pollutants, and time of day, among others, which could impact the accuracy of interactive systems. As such, we recommend not using blinks as a direct input method for interactive systems, but merely as a passive sensing modality.
 
-<sup id="fn1">1.<a href="https://github.com/iankleckner/EDAQA" id="ref1">EDAQA</a></sup>
+</p>
