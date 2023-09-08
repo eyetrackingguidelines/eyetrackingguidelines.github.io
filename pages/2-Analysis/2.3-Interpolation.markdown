@@ -8,7 +8,7 @@ parent: Analysis
 
 ---
 
-### Use Linear or Cubic Spline interpolation to interpolate between blinks.
+## Use Linear or Cubic Spline interpolation to interpolate between blinks.
 <br>
 <p align="justify">
 We recommend using either linear or cubic spline interpolation to interpolate within blinks. We identified several infilling methods during our literature review and compared the most represented ones against one another. Using linear or cubic spline interpolation results in the least amount of mean degrees of error compared to ground truth data.
