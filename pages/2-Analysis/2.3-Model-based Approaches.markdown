@@ -2,7 +2,7 @@
 layout: page
 title: Model-based Approaches
 permalink: /analysis/mba
-author: Ebrahim Babaei
+author: Removed for blind review
 nav_order: 3
 parent: Analysis
 

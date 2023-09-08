@@ -2,7 +2,7 @@
 layout: page
 title: Analysis
 permalink: /analysis/
-author: Ebrahim Babaei
+author: Removed for blind review
 nav_order: 5
 has_children: true
 ---

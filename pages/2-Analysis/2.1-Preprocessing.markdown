@@ -2,7 +2,7 @@
 layout: page
 title: Pre-processing
 permalink: /analysis/pre
-author: Ebrahim Babaei
+author: Removed for blind review
 nav_order:  1
 parent : Analysis
 

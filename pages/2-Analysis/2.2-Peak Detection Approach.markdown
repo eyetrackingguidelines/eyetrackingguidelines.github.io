@@ -2,7 +2,7 @@
 layout: page
 title: Peak Detection Approach
 permalink: /analysis/pda
-author: Ebrahim Babaei
+author: Removed for blind review
 nav_order: 2
 parent: Analysis
 
