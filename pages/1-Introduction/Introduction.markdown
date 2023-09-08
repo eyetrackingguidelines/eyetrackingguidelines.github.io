@@ -1,0 +1,17 @@
+---
+layout: page
+title: Introduction
+permalink: /introduction/
+author: Removed for blind review
+nav_order: 1
+---
+## INTRODUCTION
+<br>
+<p align="justify">
+Our findings in a systematic review [24] on EDA publications in CHI, highlighted severe issues with how EDA data has been collected and analysed by the CHI community. In this
+page, we propose a set of recommendations for improving practices for designing and conducting studies involving
+the analysis of EDA data. Our recommendations focus on the issues of highest concern in previous EDA studies in CHI
+and provide a template for reporting the results of future studies. These recommendations shall serve as a minimum
+scientific quality assurance for research utilizing EDA. Though we developed these recommendations based on the
+requirements of recent EDA studies published at CHI, we note that they might not be suitable for all cases, due to the
+wide variety of types of papers involving EDA data. We structured these recommendations based on different stages of a study from design to analysis. </p>
