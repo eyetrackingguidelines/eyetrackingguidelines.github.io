@@ -22,7 +22,7 @@ Will be added for the camera ready version
 <!-- <a href="https://zenodo.org/badge/latestdoi/"><img src="https://zenodo.org/badge/.svg" alt="DOI"></a> -->
 
 ### Citing
-These guidelines are supplementary material for our paper, <a href= "https://dl.acm.org/doi/abs/">How to Overcome Blinks in Eye Tracking for Interactive Systems at CHI</a>. If you are using the guidelines in this webpage, please cite our paper using the following BibTeX.
+These guidelines are supplementary material for our paper, <a href= "https://dl.acm.org/doi/10.1145/3613904.3642086">How to Overcome Blinks in Eye Tracking for Interactive Systems at CHI</a>. If you are using the guidelines in this webpage, please cite our paper using the following BibTeX.
 
 ```
 TBD
