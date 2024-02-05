@@ -7,13 +7,11 @@ How to Overcome Blinks in Eye Tracking for Interactive Systems
 
 ### Authors
 
-<a href="" rel="author"> Removed for Blind Review </a>
-
-<!-- <a href="" rel="author">Jesse W Grootjen</a>
+<a href="" rel="author">Jesse W Grootjen</a>
 
 <a href="" rel="author">Henrike Weingartner</a>
 
-<a href="" rel="author">Sven Mayer</a> -->
+<a href="" rel="author">Sven Mayer</a>
 
 ### Preface
 This document developed for improving quality of eye tracking analysis in interactive systems and an initial step for co-design standards for HCI eye tracking studies.
