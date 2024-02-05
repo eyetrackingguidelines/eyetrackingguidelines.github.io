@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-How to Overcome Blinks in Eye Tracking for Interactive Systems 
+Uncovering and Addressing Blink-Related Challenges in Using Eye Tracking for Interactive Systems 
 {: .fs-7 }
 {: .fw-700 }
 
