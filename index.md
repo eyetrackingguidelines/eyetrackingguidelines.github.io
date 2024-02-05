@@ -9,7 +9,7 @@ Uncovering and Addressing Blink-Related Challenges in Using Eye Tracking for Int
 
 <a href="https://scholar.google.com/citations?user=JmBazK4AAAAJ&hl=en" rel="author">Jesse W Grootjen</a>
 
-<a href="" rel="author">Henrike Weingärtner</a>
+<a href="https://scholar.google.com/citations?user=XuCOIKcAAAAJ&hl=en&oi=ao" rel="author">Henrike Weingärtner</a>
 
 <a href="https://sven-mayer.com" rel="author">Sven Mayer</a>
 
