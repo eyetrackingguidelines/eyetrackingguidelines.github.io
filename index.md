@@ -7,11 +7,11 @@ Uncovering and Addressing Blink-Related Challenges in Using Eye Tracking for Int
 
 ### Authors
 
-<a href="" rel="author">Jesse W Grootjen</a>
+<a href="https://scholar.google.com/citations?user=JmBazK4AAAAJ&hl=en" rel="author">Jesse W Grootjen</a>
 
 <a href="" rel="author">Henrike Weingartner</a>
 
-<a href="" rel="author">Sven Mayer</a>
+<a href="https://sven-mayer.com" rel="author">Sven Mayer</a>
 
 ### Preface
 This document developed for improving quality of eye tracking analysis in interactive systems and an initial step for co-design standards for HCI eye tracking studies.
@@ -22,7 +22,7 @@ Will be added for the camera ready version
 <!-- <a href="https://zenodo.org/badge/latestdoi/"><img src="https://zenodo.org/badge/.svg" alt="DOI"></a> -->
 
 ### Citing
-These guidelines are supplementary material for our paper, <a href= "https://dl.acm.org/doi/10.1145/3613904.3642086">How to Overcome Blinks in Eye Tracking for Interactive Systems at CHI</a>. If you are using the guidelines in this webpage, please cite our paper using the following BibTeX.
+These guidelines are supplementary material for our paper, <a href= "https://dl.acm.org/doi/10.1145/3613904.3642086">Uncovering and Addressing Blink-Related Challenges in Using Eye Tracking for Interactive Systems</a> at CHI. If you are using the guidelines in this webpage, please cite our paper using the following BibTeX.
 
 ```
 TBD
