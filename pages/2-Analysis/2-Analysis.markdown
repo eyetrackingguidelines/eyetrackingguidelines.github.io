@@ -27,7 +27,7 @@ To use eye tracking in interactive systems to its fullest potential, we need to 
 | S05  | [Schuetz et al.](https://github.com/facebookresearch/gaze-hci) | 2019 | ACM CHI         | EyeLink     | 1000 Plus |       1000 |  113   | 8:5          | 180           |
 | S06  | [Annerer-Walcher et al.](https://osf.io/6823j/)                                       | 2021 | Cogn. Sci.      | SMI         | RED250    |        250 |   24   | 16:9         | 70            |
 | S07  | [Felßberg and Dombrowe](https://osf.io/dpb8z/)                                        | 2022 | Vision Res.     | EyeLink     | 1000 Plus |       1000 |   27   | 16:9         | 85            |
-| S08  | [Hollenstein et al.]((https://osf.io/ud8s5/)                                           | 2022 | LREC            | EyeLink     | 1000 Plus |       1000 |   27   | 16:9         | 85            |
+| S08  | [Hollenstein et al.](https://osf.io/ud8s5/)                                           | 2022 | LREC            | EyeLink     | 1000 Plus |       1000 |   27   | 16:9         | 85            |
 | VR01 | [Stein et al.](https://osf.io/b43uv/)                                                                          | 2022 | IEEE VR         | Tobii       | Pro       |         90 |  3.5   | 9:10         | -             |
 | VR02 | [Steil et al.](https://perceptualui.org/research/datasets/MPIIDPEye/)                                          | 2019 | ACM ETRA        | Pupil Labs  | Add-on    |         30 |  5.7   | 8:9          | -             |
 | M01  | [Steil et al.](https://perceptualui.org/research/datasets/MPIIEgoFixation/)                                    | 2018 | ACM ETRA        | Pupil Labs  | Pro       |         30 |   -    | -            | -             |
