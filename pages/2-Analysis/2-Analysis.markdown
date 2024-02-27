@@ -31,7 +31,6 @@ To use eye tracking in interactive systems to its fullest potential, we need to 
 | VR01 | [Stein et al.](https://osf.io/b43uv/)                                                                          | 2022 | IEEE VR         | Tobii       | Pro       |         90 |  3.5   | 9:10         | -             |
 | VR02 | [Steil et al.](https://perceptualui.org/research/datasets/MPIIDPEye/)                                          | 2019 | ACM ETRA        | Pupil Labs  | Add-on    |         30 |  5.7   | 8:9          | -             |
 | M01  | [Steil et al.](https://perceptualui.org/research/datasets/MPIIEgoFixation/)                                    | 2018 | ACM ETRA        | Pupil Labs  | Pro       |         30 |   -    | -            | -             |
-|      |                                                                                                                |      |                 |             |           |            |        |              |               |
 
 <br>
 <p>
