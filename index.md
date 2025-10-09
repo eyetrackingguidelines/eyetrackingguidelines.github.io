@@ -45,4 +45,4 @@ tppubtype = {inproceedings}
 
 ### Contribution
 We appreciate any feedback and contribution to improve these guidelines in future versions.
-Please refer to <a href="tbd" >github repository</a> for downloading the files of current version.
+Please refer to <a href="https://eyetrackingguidelines.github.io" >github repository</a> for downloading the files of current version.
